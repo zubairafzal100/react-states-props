@@ -3,7 +3,7 @@ import React from 'react'
 const Counter = ({counter}) => {
   return (
     <div>
-      <h1>Click the buttons below to update the counter: {counter}</h1>
+      <h1>Update the Counter: {counter}</h1>
     </div>
   )
 }
